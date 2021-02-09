@@ -1,4 +1,4 @@
-# ASRspringboard
+# Analysis of house prices in London 1995-2019
 
 We explored residential transactions across UK and London specifically and managed to achieve an optimized RMSE. Unfortunately, the features were not rich enough to have a more accurate prediction with a 98% confidence on +-65,000 compared to the actual prices in 2020. Nonetheless our result allows us to have a clear comparison between the expected properties prices and the ones offered in the corona-market economy. 
 
